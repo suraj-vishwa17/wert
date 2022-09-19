@@ -3,4 +3,4 @@ list2=[23,45,32,56,78,98]
 print(list1+list2)
 print(list1)
 print(list2)
-print(completed)
+print('completed')
